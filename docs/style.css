@@ -101,7 +101,7 @@ body {
 
 
 .image1 {
-    background-image: url('/item1.jpg');
+    background-image: url('item1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -114,7 +114,7 @@ body {
 }
 
 .image2 {
-    background-image: url('/item2.jpg');
+    background-image: url('item2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -127,7 +127,7 @@ body {
 }
 
 .image3 {
-    background-image: url('/item3.jpg');
+    background-image: url('item3.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -140,7 +140,7 @@ body {
 }
 
 .image4 {
-    background-image: url('/item4.jpg');
+    background-image: url('item4.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
